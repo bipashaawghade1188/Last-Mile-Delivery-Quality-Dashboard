@@ -1,8 +1,5 @@
 # Last-Mile-Delivery-Quality-Dashboard
 An Excel-based analytics dashboard that evaluates last-mile delivery performance across regions and couriers — built to practice the exact skills used in catalogue and delivery-quality analytics roles (data cleaning, lookup formulas, conditional aggregation, and PivotTable/PivotChart reporting).
-# Last-Mile Delivery Quality Dashboard
-
-An Excel-based analytics dashboard that evaluates last-mile delivery performance across regions and couriers — built to practice the exact skills used in catalogue and delivery-quality analytics roles (data cleaning, lookup formulas, conditional aggregation, and PivotTable/PivotChart reporting).
 
 # Project Overview
 
